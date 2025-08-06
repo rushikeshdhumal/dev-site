@@ -8,7 +8,7 @@
 
 ## 🌐 Live Website
 
-**[https://rushikeshdhumal.github.io](https://rushikeshdhumal.github.io)**
+**[https://rushikeshdhumal.github.io](https://rushikeshdhumal.github.io/dev-site)**
 
 ## 👨‍💻 About Me
 
